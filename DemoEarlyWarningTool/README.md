@@ -13,7 +13,7 @@ This project uses KNIME Analytics Platform to predict student risk status (`risk
 ## Repository Contents
 - **`Demo/DemoEarlyWarningTool.knwf`**: Exported KNIME workflow file.
 - **`Demo/student_performance_knime.csv`**: Required dataset.
-- **`Demo/Machine_Problem_1_AN41.pdf`**: Screenshots of executed nodes, CSV configuration, and Scorer results.
+- **`Demo/20231000131_Machine Problem1.pdf`**: Screenshots of executed nodes, CSV configuration, and Scorer results.
 - **`README.md`**: Project documentation and instructions.
 
 ## How to Run the Workflow

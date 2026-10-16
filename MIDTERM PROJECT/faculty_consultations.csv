@@ -1,0 +1,81 @@
+Faculty,Day,TimeSlot,StudentYear,Duration,CurrentBookings,SlotAvailable
+Prof. Santos,Monday,15:00,3,30,0,Yes
+Prof. Dela Rosa,Monday,14:00,4,15,0,Yes
+Prof. Dela Rosa,Friday,9:00,2,60,1,No
+Prof. Cruz,Monday,10:00,4,30,0,Yes
+Prof. Cruz,Monday,9:00,4,15,1,Yes
+Prof. Cruz,Monday,15:00,4,60,0,Yes
+Prof. Santos,Friday,11:00,3,60,0,Yes
+Prof. Reyes,Wednesday,9:00,2,15,1,Yes
+Prof. Cruz,Tuesday,11:00,3,30,1,Yes
+Prof. Santos,Friday,15:00,2,60,2,No
+Prof. Dela Rosa,Tuesday,15:00,3,15,0,No
+Prof. Cruz,Thursday,11:00,1,30,2,No
+Prof. Reyes,Thursday,13:00,4,30,0,Yes
+Prof. Dela Rosa,Friday,11:00,4,60,1,No
+Prof. Reyes,Friday,13:00,1,15,2,Yes
+Prof. Garcia,Friday,9:00,4,45,1,Yes
+Prof. Cruz,Friday,9:00,1,60,2,No
+Prof. Cruz,Thursday,10:00,4,15,3,No
+Prof. Cruz,Friday,10:00,1,30,2,No
+Prof. Cruz,Tuesday,14:00,1,60,0,No
+Prof. Cruz,Wednesday,10:00,1,30,2,No
+Prof. Garcia,Monday,14:00,2,30,1,Yes
+Prof. Reyes,Wednesday,14:00,4,30,3,No
+Prof. Reyes,Wednesday,13:00,3,45,2,No
+Prof. Santos,Wednesday,9:00,2,60,0,Yes
+Prof. Santos,Tuesday,9:00,1,30,0,Yes
+Prof. Garcia,Tuesday,14:00,2,60,1,No
+Prof. Garcia,Thursday,10:00,1,15,1,Yes
+Prof. Garcia,Thursday,15:00,1,15,0,Yes
+Prof. Santos,Tuesday,10:00,2,60,1,No
+Prof. Cruz,Thursday,10:00,1,45,2,No
+Prof. Dela Rosa,Monday,9:00,2,30,1,Yes
+Prof. Garcia,Monday,10:00,4,15,3,No
+Prof. Garcia,Wednesday,13:00,4,30,0,Yes
+Prof. Santos,Friday,15:00,1,30,0,No
+Prof. Dela Rosa,Friday,10:00,1,60,0,Yes
+Prof. Dela Rosa,Monday,15:00,2,45,0,Yes
+Prof. Reyes,Friday,14:00,1,60,0,Yes
+Prof. Dela Rosa,Friday,11:00,3,30,1,Yes
+Prof. Cruz,Thursday,10:00,3,45,0,Yes
+Prof. Santos,Monday,13:00,1,15,1,Yes
+Prof. Reyes,Wednesday,9:00,2,30,0,Yes
+Prof. Dela Rosa,Wednesday,14:00,1,60,0,Yes
+Prof. Reyes,Wednesday,9:00,1,60,0,Yes
+Prof. Reyes,Wednesday,10:00,3,60,1,No
+Prof. Santos,Monday,15:00,4,30,0,Yes
+Prof. Reyes,Wednesday,10:00,4,60,2,No
+Prof. Reyes,Friday,9:00,3,60,1,No
+Prof. Santos,Wednesday,11:00,1,30,0,Yes
+Prof. Santos,Wednesday,14:00,4,60,2,No
+Prof. Reyes,Tuesday,13:00,1,30,2,Yes
+Prof. Reyes,Wednesday,10:00,1,45,2,No
+Prof. Garcia,Wednesday,11:00,2,30,0,Yes
+Prof. Cruz,Wednesday,9:00,3,30,1,Yes
+Prof. Dela Rosa,Wednesday,9:00,1,30,0,Yes
+Prof. Cruz,Monday,9:00,4,30,2,Yes
+Prof. Dela Rosa,Monday,13:00,2,30,0,Yes
+Prof. Dela Rosa,Friday,15:00,2,30,1,No
+Prof. Cruz,Friday,11:00,1,30,1,Yes
+Prof. Cruz,Thursday,15:00,3,60,0,Yes
+Prof. Garcia,Tuesday,14:00,3,45,1,No
+Prof. Cruz,Tuesday,13:00,3,45,1,Yes
+Prof. Dela Rosa,Thursday,15:00,2,15,0,Yes
+Prof. Dela Rosa,Wednesday,9:00,2,30,0,Yes
+Prof. Santos,Monday,10:00,4,60,2,No
+Prof. Dela Rosa,Tuesday,15:00,4,45,1,Yes
+Prof. Santos,Monday,13:00,2,30,2,No
+Prof. Dela Rosa,Tuesday,9:00,4,30,2,No
+Prof. Dela Rosa,Wednesday,13:00,4,60,1,No
+Prof. Garcia,Thursday,11:00,2,30,2,No
+Prof. Cruz,Thursday,9:00,3,30,0,Yes
+Prof. Dela Rosa,Monday,10:00,2,30,1,Yes
+Prof. Reyes,Monday,13:00,4,30,1,Yes
+Prof. Reyes,Thursday,13:00,1,60,1,Yes
+Prof. Cruz,Wednesday,13:00,4,60,2,No
+Prof. Reyes,Thursday,10:00,3,45,1,Yes
+Prof. Garcia,Tuesday,13:00,2,60,1,No
+Prof. Dela Rosa,Friday,15:00,1,15,1,No
+Prof. Garcia,Tuesday,9:00,3,45,0,Yes
+Prof. Cruz,Thursday,11:00,4,30,2,No
